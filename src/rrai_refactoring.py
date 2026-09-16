@@ -6,7 +6,6 @@ This version aligns the executable artifact with the calculus and evaluation
 described in the manuscript "A Calculus of Trace-Preserving Rule
 Refactorings for Reactive Rule-Based Artificial Intelligence Systems".
 
-Reviewer-1 alignment points:
 1. Guards are predicates over (state, event), matching g_r : S x E -> Bool.
 2. A valid merge is a true many-to-one transformation: r11,r4 -> one rule r15.
 3. The invalid-priority control removes r9 < r3; it does not reverse the edge.
