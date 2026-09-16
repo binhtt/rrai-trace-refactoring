@@ -1,0 +1,5 @@
+stage,rules,priority_relations,structural_change,formal_basis
+Original,14,6,-,-
+Priority adjustment,14,7,Add r6 < r4,Lemma 4
+Merging,13,6,"r11,r4 -> r15",Lemma 2
+Decomposition,14,8,"r3 -> {r3a,r3b}",Lemma 1

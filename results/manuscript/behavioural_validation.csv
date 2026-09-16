@@ -1,0 +1,8 @@
+transformation,executions,divergences,rate_percent,elapsed_s
+Priority adjustment,10000,0,0.00,13.475995
+Merging,10000,0,0.00,13.256123
+Decomposition,10000,0,0.00,13.432150
+Elimination,10000,0,0.00,15.239954
+Invalid merge,10000,2466,24.66,9.825548
+Invalid priority adjustment,10000,2459,24.59,10.738387
+Unsafe decomposition,10000,4929,49.29,8.273118

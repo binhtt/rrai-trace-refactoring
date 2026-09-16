@@ -1,0 +1,8 @@
+transformation,detected_type,status,domain_size,failed_obligations,counterexample_found
+Priority adjustment,PriorityAdjustment,Pass,196608,,False
+Merging,Merge,Pass,196608,,False
+Decomposition,Decomposition,Pass,196608,,False
+Elimination,Elimination,Pass,196608,,False
+Invalid merge,Merge,Fail,196608,PriorityCompatibility,True
+Invalid priority adjustment,PriorityAdjustment,Fail,196608,MaximalRulePreservation,True
+Unsafe decomposition,Decomposition,Fail,196608,GuardPartition; ActionPreservation,True

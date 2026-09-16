@@ -1,0 +1,7 @@
+traces,trace_length,repetitions,mean_time_s,sd_time_s,min_time_s,max_time_s,measured_operation
+100,20,30,0.120097,0.007752,0.112609,0.143300,bidirectional_outgoing_set_validation
+500,20,30,0.713836,0.185299,0.585056,1.159704,bidirectional_outgoing_set_validation
+1000,20,30,1.379081,0.311909,1.207372,2.261349,bidirectional_outgoing_set_validation
+2000,20,30,2.746576,0.510943,2.382942,3.863378,bidirectional_outgoing_set_validation
+5000,20,30,6.872206,0.674632,5.982075,7.615700,bidirectional_outgoing_set_validation
+10000,20,30,13.691327,0.177912,13.439836,14.175729,bidirectional_outgoing_set_validation

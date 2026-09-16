@@ -1,0 +1,4 @@
+transformation,proof_obligations,violated_condition,counterexample
+Invalid merge,Fail,PriorityCompatibility,Found
+Invalid priority adjustment,Fail,MaximalRulePreservation,Found
+Unsafe decomposition,Fail,GuardPartition; ActionPreservation,Found

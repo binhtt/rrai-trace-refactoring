@@ -1,0 +1,4 @@
+transformation,failed_proof_obligations,divergences,rate_percent
+Invalid merge,PC,2466,24.66
+Invalid priority adjustment,MRP,2459,24.59
+Unsafe decomposition,"GP, AP",4929,49.29
