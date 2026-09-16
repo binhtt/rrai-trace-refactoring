@@ -1,28 +1,15 @@
 cff-version: 1.2.0
-message: "If you use this artifact, please cite the associated paper."
+message: "If you use this artifact, please cite this repository."
 title: "RRAI Trace-Preserving Refactoring Verification Artifact"
 type: software
 authors:
   - family-names: Trinh
     given-names: Thanh-Binh
-    orcid: "https://orcid.org/0009-0008-0434-1255"
   - family-names: Nguyen
     given-names: Van-Cuong
-  - family-names: Ha
-    given-names: Nguyen Viet
+  - family-names: Nguyen
+    given-names: Viet Ha
 repository-code: "https://github.com/binhtt/rrai-trace-refactoring"
 license: MIT
 version: 1.0.0
 date-released: 2026-09-16
-preferred-citation:
-  type: article
-  title: "A Calculus of Trace-Preserving Refactorings for Reactive Rule-Based Artificial Intelligence Systems"
-  authors:
-    - family-names: Trinh
-      given-names: Thanh-Binh
-    - family-names: Nguyen
-      given-names: Van-Cuong
-    - family-names: Ha
-      given-names: Nguyen Viet
-  journal: "IEEE Open Journal of the Computer Society"
-  year: 2026
